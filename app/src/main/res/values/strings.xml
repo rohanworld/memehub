@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Meme Hub</string>
+    <string name="share">Share</string>
+    <string name="next">Next</string>
+    <string name="todo">TODO</string>
+    <string name="meme_hub">MEME HUB</string>
+    <string name="hilarious_memes_at_your_fingertip">Hilarious Memes at Your FingerTip</string>
+    <string name="todo1">TODO</string>
+</resources>
